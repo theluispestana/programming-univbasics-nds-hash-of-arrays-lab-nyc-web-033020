@@ -11,4 +11,5 @@ def add_character(show, name)
   hoa = {
     show => name
   }
+  hoa[show]
 end
